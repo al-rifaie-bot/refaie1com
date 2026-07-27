@@ -3,3 +3,4 @@ Werkzeug
 gunicorn
 requests
 pytz
+pyTelegramBotAPI

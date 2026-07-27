@@ -5,3 +5,5 @@ requests
 pytz
 pyTelegramBotAPI
 reportlab
+arabic-reshaper
+python-bidi

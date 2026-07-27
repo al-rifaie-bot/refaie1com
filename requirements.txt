@@ -4,3 +4,4 @@ gunicorn
 requests
 pytz
 pyTelegramBotAPI
+reportlab
